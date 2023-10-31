@@ -23,7 +23,13 @@ In the context of analyzing Amazon sales data, the primary problem addressed was
 2. Created a unique customer ID by concatenating the shipping code, shipping city, and shipping postal code.
 3. Filtering Data: focus on the data from the year 2022, as it was the period of interest.
 4. Calculating RFM Scores for each customer using the range perecentil function, helping in segmentation.
+   - Pivot tables
+   - Formatting
+   - Data manipulation
+   - Aggregate functions
 5. Created a dynamic dashboard to visualize the results of the RFM analysis.
+   - Slicers
+   - Charting
 
 ## Project Insights
 - Customer segmentation
